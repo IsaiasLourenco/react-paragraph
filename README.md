@@ -4,7 +4,10 @@ Quest (Desafio) de React para praticar o que aprendi na extensão universitária
 
 ## Recursos
 
-Este projeto foi elaborado pelos monitores do DevQuest DevEmDobro com o intuito de verificar nossos conhecimentos em React. Existe um card com um parágrafo com letras normais, pretas #000000, sem font-weight: none, e Sentence Case. Quando clicado o botão "Colorir e Uppercase", transforma o texto do parágrafo em letras vermelhas, #FF0000, font-weight: bold, e todo o parágrafo em UPPERCASE. Ao clicar no botão "Voltar ao normal", volta ao estado do início.
+- Desafio 1 - Este projeto foi elaborado pelos monitores do DevQuest DevEmDobro com o intuito de verificar nossos conhecimentos em React. Existe um card com um parágrafo com letras normais, pretas #000000, sem font-weight: none, e Sentence Case. Quando clicado o botão "Colorir e Uppercase", transforma o texto do parágrafo em letras vermelhas, #FF0000, font-weight: bold, e todo o parágrafo em UPPERCASE. Ao clicar no botão "Voltar ao normal", volta ao estado do início.
+
+- Desafio 2 - Agora, um novo botão foi implementado, e com um evento de clique, apresente um alerta informando a prop label do botão, que foi clicado, com a seguinte mensagem: "A label desse botão é → <comando injetado via JS>", e o resutado final no alert, deve ser "A label desse botão é → Baixar CV"
+
 
 ## Tecnologias utilizadas
 
