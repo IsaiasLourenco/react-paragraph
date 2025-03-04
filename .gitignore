@@ -24,3 +24,5 @@ yarn-error.log*
 
 /public/manifest.json
 /public/robots.txt
+package.json
+package-lock.json

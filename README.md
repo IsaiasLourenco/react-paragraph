@@ -23,5 +23,3 @@ Não há necessidade de nennhum npm ao fazer o git.clone.
 - Levando a sério para me tornar cada dia melhor.<br> 
 - Github - Isaias Lourenço - https://github.com/IsaiasLourenco<br>
 - Linkedin - Isaias Lourenço - https://www.linkedin.com/in/isaias-louren%C3%A7o/
-
-<img src="./src/components/imagens/reactParagraph.gif" alt="React">
