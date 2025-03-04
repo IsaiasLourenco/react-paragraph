@@ -1,0 +1,12 @@
+.btn{
+    background-color: tomato;
+    color: beige;
+    font-weight: bold;
+    margin: 5px;
+    padding: 10px;
+    align-items: center;
+    width: 150px;
+    display: inline-block;
+    align-items: center;
+    justify-content: center;
+}
