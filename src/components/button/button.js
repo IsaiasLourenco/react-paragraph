@@ -1,16 +1,3 @@
-// import React from 'react';
-// import './button.css';
-
-// const Button = ({ Text, onClick }) => {
-//   return (
-//     <button className="btn" onClick={onClick}>
-//       {Text}
-//     </button>
-//   );
-// };
-
-// export default Button;
-
 import React from 'react';
 import './button.css';
 
@@ -18,7 +5,7 @@ import './button.css';
 const handleClick = (text) => {
   const paragraph = document.querySelector('.card p');
   if (paragraph) {
-    if (text === 'Colorir e Uppercase') {
+    if (text === 'Colorir e Maiuscula') {
       paragraph.style.color = 'red';
       paragraph.style.textTransform = 'uppercase';
       paragraph.style.fontWeight = 'bold';
@@ -55,5 +42,5 @@ const Button1 = ({ label = 'A label desse botão é →' }) => {
   );
 };
 
-export { Button, Button1 };
+  export { Button, Button1 };
 
